@@ -1,0 +1,2 @@
+[2021-12-28 03:27:26] [IMessager.java] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2021-12-28 03:27:26] [IMessager.java] [1] [INFO] RESULT #1: TEST [beamplify-demo - verifyCanAddFamilyMembers] FAIL [screenshots=file:///Users/solvd/Downloads/beamplify-demo/./reports/1640715970613/34a9aec9-ce52-4abe-be4a-7cf53047a8bf/report.html | log=file:///Users/solvd/Downloads/beamplify-demo/./reports/1640715970613/34a9aec9-ce52-4abe-be4a-7cf53047a8bf/test.log]
